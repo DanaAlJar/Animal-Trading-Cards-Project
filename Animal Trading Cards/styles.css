@@ -1,0 +1,41 @@
+body
+{
+   width:340px;
+}
+.italic
+{
+    font-style: italic;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+
+.list
+{
+      list-style-type: none;
+      padding:0;
+       
+}
+
+.groove
+{
+    border-style: groove;
+    padding: 10px 15px 30px 5px;
+    
+}
+.outset
+{
+    border-style:groove;
+    padding: 10px 15px 30px 10px;
+     box-shadow: 3px 3px 3px;
+}
+
+img
+{
+    border-style:hidden;
+    padding: 10px 10px 10px 2px;
+    width:300;
+    height:200;
+}
